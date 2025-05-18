@@ -6,6 +6,8 @@ Tässä raportissa käydään läpi sivuston idea, sisältö, visuaalinen ilme j
 ## 2. Sivuston idea ja sisältö
 Sivuston perusideana on tarjota käytännöllinen ja hyödyllinen tieto maailman maista. Käyttäjä voi kirjautua sisään, jolloin hän pääsee tarkastelemaan listaa maailman maista, joissa jokaisesta esitetään perustietoja. Käyttäjä voi merkitä maan kohdalla, onko hän käynyt kyseisessä maassa tai haluaisiko hän käydä siellä tulevaisuudessa. Lisäksi sivustolla on mahdollisuus jättää kommentteja, jotka tukevat tiedon jakamista ja käyttäjäkokemusten antamista.
 
+Sivustoon voit tutustua osoitteessa [jinpulol.github.io/reissuloki/](https://jinpulol.github.io/reissuloki/) tai vaihtoehtoisesti esikatselun kautta raportin lopussa.
+
 ## 3. Tekninen toteutus
 - **Frontend:** React ja TypeScript mahdollistavat modulaarisen, dynaamisen ja skaalautuvan käyttöliittymän.
 - **Autentikointi:** Käytössä on Firebase Authentication (FireAuth), jolla varmistetaan turvallinen tunnistautuminen.
